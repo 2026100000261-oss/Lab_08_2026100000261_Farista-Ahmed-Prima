@@ -1,0 +1,12 @@
+about-me.txt
+Name:Farista Ahmed Prima 
+Program:CSE
+Semester:Summer 2026
+One or two interests:Painting and Cooking 
+my-goals.txt
+ 1. Improve problem-solving skills.
+ 2. Technical communication.
+ 3. Learn programming. 
+
+
+
